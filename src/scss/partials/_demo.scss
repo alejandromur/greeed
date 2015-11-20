@@ -1,0 +1,22 @@
+.demo {
+  font-family: $font-regular;
+  padding: 10px 20px;
+  background-color: $main-color;
+}
+  .demo__header {
+    border-bottom: 4px double $white;
+    // border-bottom: 4px dashed $secondary-color;
+    
+    h1 {
+      color: $white;
+      font-size: 2.2em; 
+    }
+  }
+
+    .demo__title {
+      font-size: 1.75em;
+      color: $white;
+    }
+
+  .demo__content {
+  }

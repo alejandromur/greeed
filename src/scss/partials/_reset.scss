@@ -1,0 +1,24 @@
+html *, 
+html *:after,
+html *:before {
+  box-sizing:border-box;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+html{
+  text-rendering:optimizeLegibility;
+  overflow-x:hidden;
+  font-size:1em;
+  line-height:1.4;
+  background-color:$white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight:normal;
+}
