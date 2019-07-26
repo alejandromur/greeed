@@ -1,7 +1,7 @@
 # greeed
 gReëed. A simple and customizable responsive #CSS grid. No pretentions, just for fun
 
-<a href="http://www.mamutlove.es/projects/greeed/" title="See the demo" target="_blank">Demo</a>
+<a href="https://www.mamutlove.com/projects/greeed/" title="See the demo" target="_blank">Demo</a>
 
 # Getting to know
 &bull; This grid is mobile first and perfectly useful for your RWD projects.
